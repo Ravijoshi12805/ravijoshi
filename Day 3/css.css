@@ -1,0 +1,17 @@
+.h100{
+    color:  orange;
+}
+ul{
+    list-style-type:circle;
+    color: aqua;
+}
+p{
+    color: brown;
+
+}
+#para{
+    color: chartreuse;
+    font-style: italic;
+    line-height: 200px;
+    gap: 2;
+}

@@ -1,0 +1,13 @@
+.photo1{
+    height: 100px;
+    width: 50px ;
+}
+body {
+    background-color: #f0f2f5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 10px
+}

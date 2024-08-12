@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 100px;
+            background-color: mediumaquamarine;
+            margin: 200px auto;
+            transform: scale(1);
+        }
+        img{
+            transition: all 200ms ease-in-out;
+            filter: grayscale();
+        }
+        img:hover{
+            transform: scale(1.2);
+            filter: grayscale(0);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        transform
+    </div>
+    <img src="https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"
+    style="height: 100px;">
+</body>
+</html>

@@ -1,0 +1,20 @@
+.login_form{
+    background-color: rgb(200, 174, 139);
+    
+    margin-top: 10px;
+    margin-left: 500px;
+
+    border: 2px solid  snow; /* Width, style, and color of the border */
+    padding: 40px; /* Optional: Adds padding inside the border */
+    width: 200px; /* Optional: Sets the width of the div */
+    height: 300px; /* Optional: Sets the height of the div */
+}
+body{
+    background-color: rgb(58, 152, 184);
+}
+.submit{
+        background-color: aliceblue;
+}
+.Hello{
+    background-color: aliceblue;
+}
